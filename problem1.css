@@ -34,7 +34,14 @@ div.feedback:hover{
     width:90%;
     height: 420px;
     border-radius: 25px;
-    
+    color:black;
+    background-color: rgb(231, 213, 213);
+}
+h2{
+    color:yellow;
+}
+h2:hover{
+    color:blue;
 }
 .pic{
    
